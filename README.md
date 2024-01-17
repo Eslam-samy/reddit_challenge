@@ -1,16 +1,18 @@
 # reddit_challenge
 
-A new Flutter project.
+A new Flutter project for inter view task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application using clean arch and dummy data.
 
-A few resources to get you started if this is your first Flutter project:
+screen shoot
+![image](https://github.com/Eslam-samy/reddit_challenge/assets/62740501/13abaea3-b86b-4287-a6e4-5f3228ff2b2f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+features :
+intl
+dio
+get_it
+bloc
+flutter svg
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
